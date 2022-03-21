@@ -6,10 +6,10 @@
 <br>
 
 ## 👨‍👦‍👦팀원 소개
-|진혜린 (PM)|김선혁|마상우|백성문|임한나
+|김선혁|마상우|진혜린 (PM)|임한나|백성문
 |:---:|:---:|:---:|:---:|:---:
-|<img src="" width="100px" />|<img src="https://user-images.githubusercontent.com/61460836/157600616-4d7d629f-3e7f-41bc-974b-027278fcb1b9.jpg" width="100px" />|<img src="https://user-images.githubusercontent.com/61460836/157601818-1b3f2cc8-d52b-4974-bad0-6544cb748411.jpg" width="100px" />|<img src="" width="100px" />|<img src="" width="100px" />|
-|[진혜린 github ](https://github.com/fascinate98)|[김선혁 github](https://github.com/shk4548)|[마상우 github](https://github.com/masangwoo)|[백성문 github](https://github.com/100SM)|[임한나 github ](https://github.com/luster1031)|
+|<img src="https://user-images.githubusercontent.com/83560896/159201220-dea3bfa5-de77-4c18-a804-bc84d2fe629c.png" width="100px"/>|<img src="https://user-images.githubusercontent.com/83560896/159200888-1382b4ae-6c02-48f7-a071-135f40a84404.png" width="100px" />|<img src="https://user-images.githubusercontent.com/83560896/159200933-7850a5c5-572d-4263-ad69-c98891c43b5f.png" width="100px" />|<img src="https://user-images.githubusercontent.com/83560896/159200941-0a4ea147-5f94-4864-9edf-dc476b4b5737.png" width="100px" />|<img src="https://user-images.githubusercontent.com/83560896/159200954-35b45c88-d10b-4865-a80d-15e8aab8eea0.png" width="100px" />|
+|[김선혁 github](https://github.com/shk4548)|[마상우 github](https://github.com/masangwoo)|[진혜린 github ](https://github.com/fascinate98)|[임한나 github ](https://github.com/luster1031)|[백성문 github](https://github.com/100SM)|
 
 <br>
 
