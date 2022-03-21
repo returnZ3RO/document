@@ -13,6 +13,10 @@
 
 <br>
 
+## :Main image
+
+<img src="https://user-images.githubusercontent.com/83560896/159202218-b66fefe0-7cbc-46ea-ab09-7c37d85d213c.png" width="100%" />
+
 ## 📌Rules
 + 9시출근
 + 매일 일지
