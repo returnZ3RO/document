@@ -7,7 +7,7 @@
 
 ## 👨‍👦‍👦팀원 소개
 |김선혁|마상우|진혜린 (PM)|임한나|백성문
-|:---:|:---:|:---:|:---:|:---:
+|:---:|:---:|:---:|:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/83560896/159201220-dea3bfa5-de77-4c18-a804-bc84d2fe629c.png" width="20%"/>|<img src="https://user-images.githubusercontent.com/83560896/159200888-1382b4ae-6c02-48f7-a071-135f40a84404.png" width="20%" />|<img src="https://user-images.githubusercontent.com/83560896/159200933-7850a5c5-572d-4263-ad69-c98891c43b5f.png" width="20%" />|<img src="https://user-images.githubusercontent.com/83560896/159200941-0a4ea147-5f94-4864-9edf-dc476b4b5737.png" width="20%" />|<img src="https://user-images.githubusercontent.com/83560896/159200954-35b45c88-d10b-4865-a80d-15e8aab8eea0.png" width="20%" />|
 |[김선혁 github](https://github.com/shk4548)|[마상우 github](https://github.com/masangwoo)|[진혜린 github ](https://github.com/fascinate98)|[임한나 github ](https://github.com/luster1031)|[백성문 github](https://github.com/100SM)|
 
