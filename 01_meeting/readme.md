@@ -10,7 +10,6 @@
 ### [2022.03.28 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220328.md)
 ### [2022.03.31 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220331.md)
 ### [2022.04.04 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220404.md)
-### [2022.04.04 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220404.md)
 ### [2022.04.11 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220411.md)
 ### [2022.04.12 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220412.md)
 ### [2022.04.13 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220413.md)
