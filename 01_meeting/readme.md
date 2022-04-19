@@ -15,3 +15,4 @@
 ### [2022.04.13 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220413.md)
 ### [2022.04.14 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220414.md)
 ### [2022.04.15 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220415.md)
+### [2022.04.19 회의록](https://github.com/returnZ3RO/document/blob/main/01_meetting/220419.md)
